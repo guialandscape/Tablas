@@ -1,0 +1,73 @@
+Codigo,Cod_Class,Clase
+111,1,Llanura (plana)
+112,1,Llanura (plana)
+113,1,Llanura (plana)
+211,1,Llanura (plana)
+212,1,Llanura (plana)
+213,1,Llanura (plana)
+311,2,Meseta (plana)
+312,2,Meseta (plana)
+313,2,Meseta (plana)
+411,2,Meseta (plana)
+412,2,Meseta (plana)
+413,2,Meseta (plana)
+121,3,Llanura (ondulada)
+122,3,Llanura (ondulada)
+123,3,Llanura (ondulada)
+221,3,Llanura (ondulada)
+222,3,Llanura (ondulada)
+223,3,Llanura (ondulada)
+321,4,Meseta (ondulada)
+322,4,Meseta (ondulada)
+323,4,Meseta (ondulada)
+421,4,Meseta (ondulada)
+422,4,Meseta (ondulada)
+423,4,Meseta (ondulada)
+132,5,Ladera inclinada de tierras bajas
+142,5,Ladera inclinada de tierras bajas
+152,6,Ladera escarpada de tierras bajas 
+162,6,Ladera escarpada de tierras bajas 
+232,7,Ladera inclinada de altitud media
+242,7,Ladera inclinada de altitud media
+332,7,Ladera inclinada de altitud media
+342,7,Ladera inclinada de altitud media
+252,8,Ladera escarpada de altitud media
+262,8,Ladera escarpada de altitud media
+352,8,Ladera escarpada de altitud media
+362,8,Ladera escarpada de altitud media
+432,9,Ladera inclinada de elevada altitud
+442,9,Ladera inclinada de elevada altitud
+452,10,Ladera escarpada de elevada altitud
+462,10,Ladera escarpada de elevada altitud
+131,11,Cresta en tierras bajas
+141,11,Cresta en tierras bajas
+151,11,Cresta en tierras bajas
+161,11,Cresta en tierras bajas
+231,12,Cresta en altitud media
+241,12,Cresta en altitud media
+251,12,Cresta en altitud media
+261,12,Cresta en altitud media
+331,12,Cresta en altitud media
+341,12,Cresta en altitud media
+351,12,Cresta en altitud media
+361,12,Cresta en altitud media
+431,13,Cresta en elevada altitud
+441,13,Cresta en elevada altitud
+451,13,Cresta en elevada altitud
+461,13,Cresta en elevada altitud
+133,14,Pie de ladera de tierras bajas
+143,14,Pie de ladera de tierras bajas
+153,14,Pie de ladera de tierras bajas
+163,14,Pie de ladera de tierras bajas
+233,15,Pie de ladera en altitud media
+243,15,Pie de ladera en altitud media
+253,15,Pie de ladera en altitud media
+263,15,Pie de ladera en altitud media
+333,15,Pie de ladera en altitud media
+343,15,Pie de ladera en altitud media
+353,15,Pie de ladera en altitud media
+363,15,Pie de ladera en altitud media
+433,16,Pie de ladera en elevada altitud
+443,16,Pie de ladera en elevada altitud
+453,16,Pie de ladera en elevada altitud
+463,16,Pie de ladera en elevada altitud
