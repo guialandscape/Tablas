@@ -1,0 +1,5 @@
+lucode,is_tropical_forest,c_above,c_below,c_soil,c_dead,Description
+1,1,n/a,0,0,0,Latifoliado
+2,1,n/a,0,0,0,Mangle
+3,1,n/a,0,0,0,Cafetal
+4,0,3,0,0,0,No Bosque
